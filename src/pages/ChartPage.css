@@ -1,0 +1,32 @@
+/* styles.css */
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 30px;
+  }
+  
+  .header h1 {
+    text-align: center;
+  }
+  
+  .header > div {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .header a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+  }
+  
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  

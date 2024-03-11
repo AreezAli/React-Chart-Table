@@ -1,0 +1,24 @@
+/* styles.css */
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px 30px;
+  }
+  
+  .header h1 {
+    text-align: center;
+  }
+  
+  .header > div {
+    text-align: end;
+  }
+  
+  .header button {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+  }
+  
