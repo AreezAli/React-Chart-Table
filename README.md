@@ -1,4 +1,3 @@
-````markdown
 # React Web Application with Charts and Tables
 
 This is a two-page web application built using React.js, featuring a chart page and a table page. The chart page displays data using Recharts library to visualize trends over time, while the table page presents tabular data with the ability to download as an Excel file.
@@ -25,7 +24,6 @@ To get started with this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-project.git
    ```
-````
 
 2. Navigate to the project directory:
 
@@ -63,7 +61,3 @@ Once the application is running, you can navigate between the chart page and the
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-```
-
-```
